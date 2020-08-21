@@ -1,0 +1,2 @@
+
+int madd(int, int);
